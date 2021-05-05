@@ -1,4 +1,4 @@
-package com.androiddevs.mvvmnewsapp
+package com.franckcarin.whatsnew
 
 import org.junit.Test
 

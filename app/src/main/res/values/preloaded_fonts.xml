@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/allerta</item>
+        <item>@font/archivo_narrow</item>
+        <item>@font/bad_script</item>
+        <item>@font/life_savers_bold</item>
+    </array>
+</resources>
